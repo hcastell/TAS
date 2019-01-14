@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sfb_wssfb_WS", "sfb_wssfb_WS.csproj", "{94CDDB31-A803-4128-A3F6-EB961AE34F63}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sfb_wssfb_WS_Setup", "..\sfb_wssfb_WS_Setup\sfb_wssfb_WS_Setup.vdproj", "{9E0C1E39-830F-415B-8E6F-417069A4CDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CDDB31-A803-4128-A3F6-EB961AE34F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CDDB31-A803-4128-A3F6-EB961AE34F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CDDB31-A803-4128-A3F6-EB961AE34F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CDDB31-A803-4128-A3F6-EB961AE34F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0C1E39-830F-415B-8E6F-417069A4CDEE}.Debug|Any CPU.ActiveCfg = Debug
+		{9E0C1E39-830F-415B-8E6F-417069A4CDEE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<generateInfo>
+ <packagePrefix value='com.unisys' />
+ <applicationName value='sfb' />
+ <bundleName value='wssfb' />
+ <assemblyNamespace value='wssfb_Ns' />
+ <webServiceNamespace value='www.wssfb.com' />
+ <targetLanguage value='1' />
+ <ispecs>
+  <ispec name='WS401' longName='WS401' />
+  <ispec name='WS402' longName='WS402' />
+  <ispec name='WSCEC' longName='WSCEC' />
+  <ispec name='WS201' longName='WS201' />
+  <ispec name='WS200' longName='WS200' />
+  <ispec name='WSCCC' longName='WSCCC' />
+  <ispec name='WS150' longName='WS150' />
+  <ispec name='WSTTC' longName='WSTTC' />
+  <ispec name='WSTAT' longName='WSTAT' />
+ </ispecs>
+</generateInfo>
