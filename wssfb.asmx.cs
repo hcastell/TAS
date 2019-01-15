@@ -14,7 +14,6 @@ namespace wssfb_Ns
 {
 	/// <summary>
 	/// Summary description for wssfb.
-    /// Prueba Git3
 	/// </summary>
 	[WebService(Namespace="http://www.wssfb.com/",
 		Description="sfb system wssfb web services.")]
